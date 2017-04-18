@@ -1,0 +1,21 @@
+# Site settings
+title: From firefighter to full-stack developer
+header-img: img/home-bg.png
+email: jimbohotchkiss@yahoo.com
+copyright_name: JimHotchkiss
+description: > # this means to ignore newlines until "baseurl:"
+  notes from the road
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  JimHotchkiss
+learn_profile: JimHotchkiss
+email_username: jimbohotchkiss@yahoo.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
