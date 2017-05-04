@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "hitting the pool" "
-date:   2017-05-04 11:52:28 +0000
+title:  "Hitting The Pool From The High Dive" "
+date:   2017-05-04 07:52:29 -0400
 ---
 
 I was a guy that knew just enough about technology to be totally intimidated.  I knew, to a limited degree, how to use a computer; I did not, however, know how computers worked.  This was my life and my relationship with technology, for quite some time, until I started grad school.  On my first day, first class, the professor looked out at the class and said, “You are going to have to learn how to code in this class.”  This terrified me.  My next class, Observational Techniques, was no improvement.  There the professor echoed my first professor’s sentiment.  “We work with different data types and specifically, images, and consequently, you are going to have to learn, if you don’t already know it, Python and how to manipulate fits files.  I, smiling nervously, did not know what my professor meant by either Python or a fits file.  And I was introduced to the first obstacle when one begins to learn to code: Understanding the coding idiom.  
